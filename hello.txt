@@ -1,0 +1,2853 @@
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+hello this is test text file
+this is line two for this test file
+this is line three
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+
+
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
+#We need to read the image as binary mode
+#Then write  the image as copy in binary mode
+#We can do this by using rb and wb (b specify that file reading and writing in binary mode)	
+#For text it nothing will change it will work as normal read and write mode
+#Incase of image there will be no image created if there no image exist it will throw an error
+#To read and write with images
